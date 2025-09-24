@@ -1,96 +1,146 @@
-<h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-  Hey! Nice to see you
-</h1>
+# Hi there, I'm Darshana Ujad 👋
 
-<p>
-  Hello ! I am <b>Darshana Ujad</b> from 
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> 
-  <b>Jalna, India</b>.
+**Full Stack Developer** | **Computer Science Graduate** | **Open Source Enthusiast**
+
+📍 Jalna, Maharashtra, India | 🎓 Software Engineer | 💡 Problem Solver
+
+---
+
+## About Me
+
+I'm a passionate full-stack developer with expertise in modern web technologies. I enjoy building scalable applications and contributing to open-source projects. Currently focused on expanding my skills in cloud technologies and advanced JavaScript frameworks.
+
+- 🔭 Currently working on full-stack web applications
+- 🌱 Learning cloud technologies and DevOps practices
+- 👯 Looking to collaborate on open source projects
+- 💬 Ask me about React, Node.js, and MongoDB
+- 📫 How to reach me: **darshana.ujad@gmail.com**
+- ⚡ Fun fact: I love solving algorithmic challenges
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=darshanaujad&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
-<h3>🛠️ Things I Code With</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darshanaujad&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanaujad&layout=compact&langs_count=8&theme=dark" alt="Most Used Languages" />
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshanaujad&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshanaujad&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 💼 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **BookStore** | Full-stack book management application with CRUD operations | React, Node.js, MongoDB, Express | [Repo](https://github.com/darshanaujad/BookStore) |
+| **Project 2** | Description of your second project | Tech stack | [Repo](#) [Live](#) |
+| **Project 3** | Description of your third project | Tech stack | [Repo](#) [Live](#) |
+
+---
+
+## 📝 Latest Blog Posts & Articles
+
+<!-- BLOG-POST-LIST:START -->
+- Coming Soon: Technical articles and tutorials
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/darshana-ujad-01b248361">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:darshana.ujad@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/darshanaujad">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 42 mins   ████████████░░░░░░░░░░░░░   48.3%
+React        4 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   23.6%
+Node.js      2 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.9%
+CSS          1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   7.4%
+HTML         1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   6.7%
+```
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+  <h3>💭 Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=darshanaujad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />  
-</p>
-
-
----
-
-<h3>📂 Featured Projects</h3>
-<table>
-  <thead align="center">
-    <tr border="none">
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/darshanaujad/BookStore"><b>BookStore</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/darshanaujad/BookStore?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/darshanaujad/BookStore?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/darshanaujad/BookStore?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/darshanaujad/BookStore?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-<h3>🌐 Where to Find Me</h3>
-<p>
-  <a href="https://github.com/darshanaujad" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/darshana-ujad-01b248361" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:darshana.ujad@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshanaujad&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
-## 🔥 GitHub Streaks  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=darshanaujad&theme=tokyonight" alt="GitHub Streaks" />
-</p>
-
----
-
-## 📈 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanaujad&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
+  **"Code is like humor. When you have to explain it, it's bad." – Cory House**
+</div>

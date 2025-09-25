@@ -1,6 +1,6 @@
 # Hi there, I'm Darshana Ujad 👋
 
-**Full Stack Developer** | **Computer Science Graduate** | **Open Source Enthusiast**
+**Full Stack Developer** | **Student of Computer Application** | **Open Source Enthusiast**
 
 📍 Jalna, Maharashtra, India | 🎓 Software Engineer | 💡 Problem Solver
 

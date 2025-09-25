@@ -13,9 +13,7 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 - 🔭 Currently working on full-stack web applications
 - 🌱 Learning cloud technologies and DevOps practices
 - 👯 Looking to collaborate on open source projects
-- 💬 Ask me about React, Node.js, and MongoDB
 - 📫 How to reach me: **darshana.ujad@gmail.com**
-- ⚡ Fun fact: I love solving algorithmic challenges
 
 ---
 

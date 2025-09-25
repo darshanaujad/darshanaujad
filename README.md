@@ -87,8 +87,8 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | **BookStore** | Full-stack book management application with CRUD operations | React, Node.js, MongoDB, Express | [Repo](https://github.com/darshanaujad/BookStore) |
-| **Project 2** | Description of your second project | Tech stack | [Repo](#) [Live](#) |
-| **Project 3** | Description of your third project | Tech stack | [Repo](#) [Live](#) |
+
+
 
 ---
 

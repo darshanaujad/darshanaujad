@@ -1,4 +1,4 @@
-# Hi there, I'm Darshana Ujad 👋
+Hi there, I'm Darshana Ujad 👋
 
 **Full Stack Developer** | **Student of Computer Application** 
 
@@ -6,7 +6,7 @@
 
 ---
 
-## About Me
+About Me
 
 I'm a passionate full-stack developer with expertise in modern web technologies. I enjoy building scalable applications and contributing to open-source projects. Currently focused on expanding my skills in cloud technologies and advanced JavaScript frameworks.
 
@@ -16,8 +16,7 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 - 📫 How to reach me: **darshana.ujad@gmail.com**
 
 ---
-
-## 🛠️ Technical Skills
+🛠️ Technical Skills
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -49,7 +48,7 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 
 ---
 
-## 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=darshanaujad&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
@@ -57,7 +56,7 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 
 ---
 
-## 📊 GitHub Statistics
+📊 GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darshanaujad&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -66,15 +65,14 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 
 ---
 
-## 🔥 GitHub Streak
+🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshanaujad&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
-
-## 📈 Contribution Graph
+ 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshanaujad&theme=react-dark&hide_border=true" alt="Contribution Graph" />
@@ -82,7 +80,7 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 
 ---
 
-## 💼 Featured Projects
+💼 Featured Projects
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
@@ -90,9 +88,7 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 
 
 
----
-
-## 📝 Latest Blog Posts & Articles
+📝 Latest Blog Posts & Articles
 
 <!-- BLOG-POST-LIST:START -->
 - Coming Soon: Technical articles and tutorials
@@ -100,7 +96,7 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 
 ---
 
-## 🤝 Let's Connect
+ 🤝 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/darshana-ujad-01b248361">
@@ -116,7 +112,7 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 
 ---
 
-## 📊 Weekly Development Breakdown
+📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 ```text

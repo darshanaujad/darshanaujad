@@ -88,15 +88,6 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 | **E-Commerce-App** | Full-stack application with CRUD operations | React, Node.js, MongoDB, Express | [Repo](https://github.com/darshanaujad/E-Commerce-App) |
 
 
-
-
-
-📝 Latest Blog Posts & Articles
-
-<!-- BLOG-POST-LIST:START -->
-- Coming Soon: Technical articles and tutorials
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
  🤝 Let's Connect

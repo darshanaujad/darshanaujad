@@ -118,15 +118,6 @@ HTML         1 hr 12 mins    ██░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
----
-
-<div align="center">
-  <h3>💭 Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=darshanaujad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   

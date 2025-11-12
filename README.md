@@ -120,6 +120,4 @@ HTML         1 hr 12 mins    ██░░░░░░░░░░░░░░░
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=darshanaujad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 </div>

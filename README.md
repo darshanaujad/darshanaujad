@@ -4,7 +4,7 @@
 
 📍 Jalna, Maharashtra, India
 
-
+--- 
 About Me
 
 I'm a passionate full-stack developer with expertise in modern web technologies. I enjoy building scalable applications and contributing to open-source projects. Currently focused on expanding my skills in cloud technologies and advanced JavaScript frameworks.

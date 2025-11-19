@@ -2,7 +2,7 @@
 
 **Full Stack Developer** | **Student of Computer Application** 
 
-📍 Jalna, Maharashtra, India
+📍 Jalna, Maharashtra, Indiall
 
 --- 
 About me 

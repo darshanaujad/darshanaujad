@@ -1,4 +1,4 @@
- Hi there, I'm Darshana Ujad
+ Hi there, I'm Darshana 
 
 **Full Stack Developer** | **Student of Computer Application** 
 
